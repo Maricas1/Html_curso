@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> Ejercicio de Introducción a HTML en OpenBootcamp. </title>
+    </head>
+    <body> 
+        <!--Este es mi primer comentario de dos líneas -->
+        <!--Aprendiendo a documentar mi código con OpenBootcamp-->
+        <div>
+            <ul>Videos favoritos de Youtube
+                <li>
+                    <a href="https://youtu.be/xsxLy42HbRg">Cenicienta 2015, Vals del amor.</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/LOZuxwVk7TU">Britney Spears - Toxic (Official HD Video)</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/TJAfLE39ZZ8">Amy Winehouse - Back To Black</a>
+                </li>
+            </ul>
+        </div>
+</body>
+</html>
